@@ -1,0 +1,3052 @@
+[
+  {
+    "set": "A",
+    "id": "A01",
+    "position": 1,
+    "text": "オッケー",
+    "character": "クオッカ",
+    "reading": "おっけ",
+    "tags": [
+      "了承",
+      "会話"
+    ],
+    "image": "assets/stickers/A/01.png"
+  },
+  {
+    "set": "A",
+    "id": "A02",
+    "position": 2,
+    "text": "了解",
+    "character": "ハシビロコウ",
+    "reading": "りょうかい",
+    "tags": [
+      "了承",
+      "会話"
+    ],
+    "image": "assets/stickers/A/02.png"
+  },
+  {
+    "set": "A",
+    "id": "A03",
+    "position": 3,
+    "text": "ありがとう",
+    "character": "クオッカ",
+    "reading": "ありがとう",
+    "tags": [
+      "感謝",
+      "会話"
+    ],
+    "image": "assets/stickers/A/03.png"
+  },
+  {
+    "set": "A",
+    "id": "A04",
+    "position": 4,
+    "text": "サンキュー",
+    "character": "ウーパールーパー",
+    "reading": "さんきゅ",
+    "tags": [
+      "感謝",
+      "会話"
+    ],
+    "image": "assets/stickers/A/04.png"
+  },
+  {
+    "set": "A",
+    "id": "A05",
+    "position": 5,
+    "text": "すみません",
+    "character": "メンダコ",
+    "reading": "すみません",
+    "tags": [
+      "謝罪",
+      "会話"
+    ],
+    "image": "assets/stickers/A/05.png"
+  },
+  {
+    "set": "A",
+    "id": "A06",
+    "position": 6,
+    "text": "わかった",
+    "character": "クオッカ",
+    "reading": "わかった",
+    "tags": [
+      "了承",
+      "会話"
+    ],
+    "image": "assets/stickers/A/06.png"
+  },
+  {
+    "set": "A",
+    "id": "A07",
+    "position": 7,
+    "text": "はーい",
+    "character": "ウーパールーパー",
+    "reading": "はい",
+    "tags": [
+      "返事",
+      "会話"
+    ],
+    "image": "assets/stickers/A/07.png"
+  },
+  {
+    "set": "A",
+    "id": "A08",
+    "position": 8,
+    "text": "なるほど",
+    "character": "ハシビロコウ",
+    "reading": "なるほど",
+    "tags": [
+      "了承",
+      "会話"
+    ],
+    "image": "assets/stickers/A/08.png"
+  },
+  {
+    "set": "A",
+    "id": "A09",
+    "position": 9,
+    "text": "そうじゃね",
+    "character": "ハシビロコウ",
+    "reading": "そうじゃね",
+    "tags": [
+      "了承",
+      "会話"
+    ],
+    "image": "assets/stickers/A/09.png"
+  },
+  {
+    "set": "A",
+    "id": "A10",
+    "position": 10,
+    "text": "いいね",
+    "character": "ウーパールーパー",
+    "reading": "いいね",
+    "tags": [
+      "了承",
+      "会話"
+    ],
+    "image": "assets/stickers/A/10.png"
+  },
+  {
+    "set": "A",
+    "id": "A11",
+    "position": 11,
+    "text": "見ました",
+    "character": "ハシビロコウ",
+    "reading": "みました",
+    "tags": [
+      "確認",
+      "会話"
+    ],
+    "image": "assets/stickers/A/11.png"
+  },
+  {
+    "set": "A",
+    "id": "A12",
+    "position": 12,
+    "text": "あとで",
+    "character": "メンダコ",
+    "reading": "あとで",
+    "tags": [
+      "予定",
+      "会話"
+    ],
+    "image": "assets/stickers/A/12.png"
+  },
+  {
+    "set": "A",
+    "id": "A13",
+    "position": 13,
+    "text": "今むり",
+    "character": "メンダコ",
+    "reading": "いまむり",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/A/13.png"
+  },
+  {
+    "set": "A",
+    "id": "A14",
+    "position": 14,
+    "text": "すぐ行く",
+    "character": "エボシカメレオン",
+    "reading": "すぐいく",
+    "tags": [
+      "移動",
+      "会話"
+    ],
+    "image": "assets/stickers/A/14.png"
+  },
+  {
+    "set": "A",
+    "id": "A15",
+    "position": 15,
+    "text": "向かってます",
+    "character": "エボシカメレオン",
+    "reading": "むかってます",
+    "tags": [
+      "移動",
+      "会話"
+    ],
+    "image": "assets/stickers/A/15.png"
+  },
+  {
+    "set": "A",
+    "id": "A16",
+    "position": 16,
+    "text": "帰ります",
+    "character": "クオッカ",
+    "reading": "かえります",
+    "tags": [
+      "移動",
+      "会話終了"
+    ],
+    "image": "assets/stickers/A/16.png"
+  },
+  {
+    "set": "A",
+    "id": "A17",
+    "position": 17,
+    "text": "もうすぐ",
+    "character": "メンダコ",
+    "reading": "もうすぐ",
+    "tags": [
+      "予定",
+      "会話"
+    ],
+    "image": "assets/stickers/A/17.png"
+  },
+  {
+    "set": "A",
+    "id": "A18",
+    "position": 18,
+    "text": "風呂",
+    "character": "メンダコ",
+    "reading": "ふろ",
+    "tags": [
+      "日常"
+    ],
+    "image": "assets/stickers/A/18.png"
+  },
+  {
+    "set": "A",
+    "id": "A19",
+    "position": 19,
+    "text": "寝る",
+    "character": "ウーパールーパー",
+    "reading": "ねる",
+    "tags": [
+      "会話終了",
+      "日常"
+    ],
+    "image": "assets/stickers/A/19.png"
+  },
+  {
+    "set": "A",
+    "id": "A20",
+    "position": 20,
+    "text": "笑",
+    "character": "クオッカ",
+    "reading": "わらい",
+    "tags": [
+      "笑い",
+      "会話"
+    ],
+    "image": "assets/stickers/A/20.png"
+  },
+  {
+    "set": "A",
+    "id": "A21",
+    "position": 21,
+    "text": "おはよう",
+    "character": "クオッカ",
+    "reading": "おはよう",
+    "tags": [
+      "挨拶",
+      "会話"
+    ],
+    "image": "assets/stickers/A/21.png"
+  },
+  {
+    "set": "A",
+    "id": "A22",
+    "position": 22,
+    "text": "こんにちは",
+    "character": "クオッカ",
+    "reading": "こんにちは",
+    "tags": [
+      "挨拶",
+      "会話"
+    ],
+    "image": "assets/stickers/A/22.png"
+  },
+  {
+    "set": "A",
+    "id": "A23",
+    "position": 23,
+    "text": "こんばんは",
+    "character": "ハシビロコウ",
+    "reading": "こんばんは",
+    "tags": [
+      "挨拶",
+      "会話"
+    ],
+    "image": "assets/stickers/A/23.png"
+  },
+  {
+    "set": "A",
+    "id": "A24",
+    "position": 24,
+    "text": "おやすみ",
+    "character": "ウーパールーパー",
+    "reading": "おやすみ",
+    "tags": [
+      "挨拶",
+      "会話終了"
+    ],
+    "image": "assets/stickers/A/24.png"
+  },
+  {
+    "set": "A",
+    "id": "A25",
+    "position": 25,
+    "text": "またね",
+    "character": "クオッカ",
+    "reading": "またね",
+    "tags": [
+      "挨拶",
+      "会話終了"
+    ],
+    "image": "assets/stickers/A/25.png"
+  },
+  {
+    "set": "A",
+    "id": "A26",
+    "position": 26,
+    "text": "おつかれ",
+    "character": "ウーパールーパー",
+    "reading": "おつかれ",
+    "tags": [
+      "応援",
+      "会話"
+    ],
+    "image": "assets/stickers/A/26.png"
+  },
+  {
+    "set": "A",
+    "id": "A27",
+    "position": 27,
+    "text": "よろしく",
+    "character": "クオッカ",
+    "reading": "よろしく",
+    "tags": [
+      "応援",
+      "会話"
+    ],
+    "image": "assets/stickers/A/27.png"
+  },
+  {
+    "set": "A",
+    "id": "A28",
+    "position": 28,
+    "text": "お願いします",
+    "character": "ハシビロコウ",
+    "reading": "おねがいします",
+    "tags": [
+      "応援",
+      "お願い"
+    ],
+    "image": "assets/stickers/A/28.png"
+  },
+  {
+    "set": "A",
+    "id": "A29",
+    "position": 29,
+    "text": "ごめん",
+    "character": "メンダコ",
+    "reading": "ごめん",
+    "tags": [
+      "謝罪",
+      "会話"
+    ],
+    "image": "assets/stickers/A/29.png"
+  },
+  {
+    "set": "A",
+    "id": "A30",
+    "position": 30,
+    "text": "大丈夫",
+    "character": "ウーパールーパー",
+    "reading": "だいじょうぶ",
+    "tags": [
+      "応援",
+      "会話"
+    ],
+    "image": "assets/stickers/A/30.png"
+  },
+  {
+    "set": "A",
+    "id": "A31",
+    "position": 31,
+    "text": "確認中",
+    "character": "ハシビロコウ",
+    "reading": "かくにんちゅう",
+    "tags": [
+      "確認",
+      "仕事"
+    ],
+    "image": "assets/stickers/A/31.png"
+  },
+  {
+    "set": "A",
+    "id": "A32",
+    "position": 32,
+    "text": "ちょっと待って",
+    "character": "メンダコ",
+    "reading": "ちょっとまって",
+    "tags": [
+      "催促",
+      "お願い"
+    ],
+    "image": "assets/stickers/A/32.png"
+  },
+  {
+    "set": "A",
+    "id": "A33",
+    "position": 33,
+    "text": "どこ？",
+    "character": "エボシカメレオン",
+    "reading": "どこ",
+    "tags": [
+      "確認",
+      "会話"
+    ],
+    "image": "assets/stickers/A/33.png"
+  },
+  {
+    "set": "A",
+    "id": "A34",
+    "position": 34,
+    "text": "助かる",
+    "character": "クオッカ",
+    "reading": "たすかる",
+    "tags": [
+      "感謝",
+      "会話"
+    ],
+    "image": "assets/stickers/A/34.png"
+  },
+  {
+    "set": "A",
+    "id": "A35",
+    "position": 35,
+    "text": "起きた",
+    "character": "ウーパールーパー",
+    "reading": "おきた",
+    "tags": [
+      "日常"
+    ],
+    "image": "assets/stickers/A/35.png"
+  },
+  {
+    "set": "A",
+    "id": "A36",
+    "position": 36,
+    "text": "休憩",
+    "character": "メンダコ",
+    "reading": "きゅうけい",
+    "tags": [
+      "日常"
+    ],
+    "image": "assets/stickers/A/36.png"
+  },
+  {
+    "set": "A",
+    "id": "A37",
+    "position": 37,
+    "text": "元気？",
+    "character": "クオッカ",
+    "reading": "げんき",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/A/37.png"
+  },
+  {
+    "set": "A",
+    "id": "A38",
+    "position": 38,
+    "text": "待って",
+    "character": "メンダコ",
+    "reading": "まって",
+    "tags": [
+      "催促",
+      "お願い"
+    ],
+    "image": "assets/stickers/A/38.png"
+  },
+  {
+    "set": "A",
+    "id": "A39",
+    "position": 39,
+    "text": "遅れます",
+    "character": "エボシカメレオン",
+    "reading": "おくれます",
+    "tags": [
+      "移動",
+      "会話"
+    ],
+    "image": "assets/stickers/A/39.png"
+  },
+  {
+    "set": "A",
+    "id": "A40",
+    "position": 40,
+    "text": "いえいえ",
+    "character": "ウーパールーパー",
+    "reading": "いえいえ",
+    "tags": [
+      "返事",
+      "会話"
+    ],
+    "image": "assets/stickers/A/40.png"
+  },
+  {
+    "set": "B",
+    "id": "B01",
+    "position": 1,
+    "text": "まじか",
+    "character": "メンダコ",
+    "reading": "まじか",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/B/01.png"
+  },
+  {
+    "set": "B",
+    "id": "B02",
+    "position": 2,
+    "text": "そんなバカな",
+    "character": "マヌルネコ",
+    "reading": "そんなばかな",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/02.png"
+  },
+  {
+    "set": "B",
+    "id": "B03",
+    "position": 3,
+    "text": "信じられん",
+    "character": "ハシビロコウ",
+    "reading": "しんじられん",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/03.png"
+  },
+  {
+    "set": "B",
+    "id": "B04",
+    "position": 4,
+    "text": "泣く",
+    "character": "メンダコ",
+    "reading": "なく",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/B/04.png"
+  },
+  {
+    "set": "B",
+    "id": "B05",
+    "position": 5,
+    "text": "うーむ",
+    "character": "マヌルネコ",
+    "reading": "うむ",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/05.png"
+  },
+  {
+    "set": "B",
+    "id": "B06",
+    "position": 6,
+    "text": "わからん",
+    "character": "マヌルネコ",
+    "reading": "わからん",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/B/06.png"
+  },
+  {
+    "set": "B",
+    "id": "B07",
+    "position": 7,
+    "text": "知らん",
+    "character": "マヌルネコ",
+    "reading": "しらん",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/B/07.png"
+  },
+  {
+    "set": "B",
+    "id": "B08",
+    "position": 8,
+    "text": "そうかも",
+    "character": "ウーパールーパー",
+    "reading": "そうかも",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/08.png"
+  },
+  {
+    "set": "B",
+    "id": "B09",
+    "position": 9,
+    "text": "いまいち",
+    "character": "マヌルネコ",
+    "reading": "いまいち",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/B/09.png"
+  },
+  {
+    "set": "B",
+    "id": "B10",
+    "position": 10,
+    "text": "好き",
+    "character": "ウーパールーパー",
+    "reading": "すき",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/10.png"
+  },
+  {
+    "set": "B",
+    "id": "B11",
+    "position": 11,
+    "text": "嫌い",
+    "character": "マヌルネコ",
+    "reading": "きらい",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/B/11.png"
+  },
+  {
+    "set": "B",
+    "id": "B12",
+    "position": 12,
+    "text": "えっ",
+    "character": "メンダコ",
+    "reading": "えっ",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/B/12.png"
+  },
+  {
+    "set": "B",
+    "id": "B13",
+    "position": 13,
+    "text": "ウソッ",
+    "character": "メンダコ",
+    "reading": "うそっ",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/B/13.png"
+  },
+  {
+    "set": "B",
+    "id": "B14",
+    "position": 14,
+    "text": "ワオッ",
+    "character": "エボシカメレオン",
+    "reading": "わおっ",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/B/14.png"
+  },
+  {
+    "set": "B",
+    "id": "B15",
+    "position": 15,
+    "text": "ガーン",
+    "character": "マヌルネコ",
+    "reading": "がん",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/B/15.png"
+  },
+  {
+    "set": "B",
+    "id": "B16",
+    "position": 16,
+    "text": "ええっ",
+    "character": "メンダコ",
+    "reading": "ええっ",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/B/16.png"
+  },
+  {
+    "set": "B",
+    "id": "B17",
+    "position": 17,
+    "text": "ほうなん？",
+    "character": "ハシビロコウ",
+    "reading": "ほうなん",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/17.png"
+  },
+  {
+    "set": "B",
+    "id": "B18",
+    "position": 18,
+    "text": "なんで？",
+    "character": "マヌルネコ",
+    "reading": "なんで",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/B/18.png"
+  },
+  {
+    "set": "B",
+    "id": "B19",
+    "position": 19,
+    "text": "ほんまに？",
+    "character": "マヌルネコ",
+    "reading": "ほんまに",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/B/19.png"
+  },
+  {
+    "set": "B",
+    "id": "B20",
+    "position": 20,
+    "text": "びっくり",
+    "character": "ウーパールーパー",
+    "reading": "びっくり",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/B/20.png"
+  },
+  {
+    "set": "B",
+    "id": "B21",
+    "position": 21,
+    "text": "まさか",
+    "character": "ハシビロコウ",
+    "reading": "まさか",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/B/21.png"
+  },
+  {
+    "set": "B",
+    "id": "B22",
+    "position": 22,
+    "text": "ありえん",
+    "character": "マヌルネコ",
+    "reading": "ありえん",
+    "tags": [
+      "驚き",
+      "否定"
+    ],
+    "image": "assets/stickers/B/22.png"
+  },
+  {
+    "set": "B",
+    "id": "B23",
+    "position": 23,
+    "text": "微妙",
+    "character": "マヌルネコ",
+    "reading": "びみょう",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/B/23.png"
+  },
+  {
+    "set": "B",
+    "id": "B24",
+    "position": 24,
+    "text": "まあまあ",
+    "character": "マヌルネコ",
+    "reading": "まあまあ",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/24.png"
+  },
+  {
+    "set": "B",
+    "id": "B25",
+    "position": 25,
+    "text": "たぶん",
+    "character": "ハシビロコウ",
+    "reading": "たぶん",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/25.png"
+  },
+  {
+    "set": "B",
+    "id": "B26",
+    "position": 26,
+    "text": "かも",
+    "character": "ウーパールーパー",
+    "reading": "かも",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/26.png"
+  },
+  {
+    "set": "B",
+    "id": "B27",
+    "position": 27,
+    "text": "もちろん",
+    "character": "クオッカ",
+    "reading": "もちろん",
+    "tags": [
+      "了承",
+      "会話"
+    ],
+    "image": "assets/stickers/B/27.png"
+  },
+  {
+    "set": "B",
+    "id": "B28",
+    "position": 28,
+    "text": "たしかに",
+    "character": "ハシビロコウ",
+    "reading": "たしかに",
+    "tags": [
+      "了承",
+      "会話"
+    ],
+    "image": "assets/stickers/B/28.png"
+  },
+  {
+    "set": "B",
+    "id": "B29",
+    "position": 29,
+    "text": "ほう",
+    "character": "ハシビロコウ",
+    "reading": "ほう",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/29.png"
+  },
+  {
+    "set": "B",
+    "id": "B30",
+    "position": 30,
+    "text": "なっとく",
+    "character": "ハシビロコウ",
+    "reading": "なっとく",
+    "tags": [
+      "了承",
+      "会話"
+    ],
+    "image": "assets/stickers/B/30.png"
+  },
+  {
+    "set": "B",
+    "id": "B31",
+    "position": 31,
+    "text": "そうね",
+    "character": "ハシビロコウ",
+    "reading": "そうね",
+    "tags": [
+      "了承",
+      "会話"
+    ],
+    "image": "assets/stickers/B/31.png"
+  },
+  {
+    "set": "B",
+    "id": "B32",
+    "position": 32,
+    "text": "うんうん",
+    "character": "ウーパールーパー",
+    "reading": "うんうん",
+    "tags": [
+      "了承",
+      "会話"
+    ],
+    "image": "assets/stickers/B/32.png"
+  },
+  {
+    "set": "B",
+    "id": "B33",
+    "position": 33,
+    "text": "ふぅ",
+    "character": "メンダコ",
+    "reading": "ふぅ",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/33.png"
+  },
+  {
+    "set": "B",
+    "id": "B34",
+    "position": 34,
+    "text": "どした？",
+    "character": "クオッカ",
+    "reading": "どした",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/34.png"
+  },
+  {
+    "set": "B",
+    "id": "B35",
+    "position": 35,
+    "text": "どちらかといえば",
+    "character": "ハシビロコウ",
+    "reading": "どちらかといえば",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/35.png"
+  },
+  {
+    "set": "B",
+    "id": "B36",
+    "position": 36,
+    "text": "へぇー",
+    "character": "エボシカメレオン",
+    "reading": "へぇ",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/36.png"
+  },
+  {
+    "set": "B",
+    "id": "B37",
+    "position": 37,
+    "text": "おそらく",
+    "character": "ハシビロコウ",
+    "reading": "おそらく",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/B/37.png"
+  },
+  {
+    "set": "B",
+    "id": "B38",
+    "position": 38,
+    "text": "残念",
+    "character": "メンダコ",
+    "reading": "ざんねん",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/B/38.png"
+  },
+  {
+    "set": "B",
+    "id": "B39",
+    "position": 39,
+    "text": "無念",
+    "character": "マヌルネコ",
+    "reading": "むねん",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/B/39.png"
+  },
+  {
+    "set": "B",
+    "id": "B40",
+    "position": 40,
+    "text": "惜しい",
+    "character": "エボシカメレオン",
+    "reading": "おしい",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/B/40.png"
+  },
+  {
+    "set": "C",
+    "id": "C01",
+    "position": 1,
+    "text": "来た",
+    "character": "エボシカメレオン",
+    "reading": "きた",
+    "tags": [
+      "移動",
+      "会話"
+    ],
+    "image": "assets/stickers/C/01.png"
+  },
+  {
+    "set": "C",
+    "id": "C02",
+    "position": 2,
+    "text": "的中",
+    "character": "エボシカメレオン",
+    "reading": "てきちゅう",
+    "tags": [
+      "仕事",
+      "会話"
+    ],
+    "image": "assets/stickers/C/02.png"
+  },
+  {
+    "set": "C",
+    "id": "C03",
+    "position": 3,
+    "text": "大勝利",
+    "character": "クオッカ",
+    "reading": "だいしょうり",
+    "tags": [
+      "喜び",
+      "会話"
+    ],
+    "image": "assets/stickers/C/03.png"
+  },
+  {
+    "set": "C",
+    "id": "C04",
+    "position": 4,
+    "text": "素晴らしい",
+    "character": "クオッカ",
+    "reading": "すばらしい",
+    "tags": [
+      "喜び",
+      "会話"
+    ],
+    "image": "assets/stickers/C/04.png"
+  },
+  {
+    "set": "C",
+    "id": "C05",
+    "position": 5,
+    "text": "革命",
+    "character": "エボシカメレオン",
+    "reading": "かくめい",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/C/05.png"
+  },
+  {
+    "set": "C",
+    "id": "C06",
+    "position": 6,
+    "text": "超便利",
+    "character": "エボシカメレオン",
+    "reading": "ちょうべんり",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/C/06.png"
+  },
+  {
+    "set": "C",
+    "id": "C07",
+    "position": 7,
+    "text": "強い",
+    "character": "エボシカメレオン",
+    "reading": "つよい",
+    "tags": [
+      "称賛",
+      "会話"
+    ],
+    "image": "assets/stickers/C/07.png"
+  },
+  {
+    "set": "C",
+    "id": "C08",
+    "position": 8,
+    "text": "待機中",
+    "character": "ハシビロコウ",
+    "reading": "たいきちゅう",
+    "tags": [
+      "仕事",
+      "会話"
+    ],
+    "image": "assets/stickers/C/08.png"
+  },
+  {
+    "set": "C",
+    "id": "C09",
+    "position": 9,
+    "text": "圧巻",
+    "character": "ハシビロコウ",
+    "reading": "あっかん",
+    "tags": [
+      "称賛",
+      "会話"
+    ],
+    "image": "assets/stickers/C/09.png"
+  },
+  {
+    "set": "C",
+    "id": "C10",
+    "position": 10,
+    "text": "おめでとう",
+    "character": "クオッカ",
+    "reading": "おめでとう",
+    "tags": [
+      "喜び",
+      "会話"
+    ],
+    "image": "assets/stickers/C/10.png"
+  },
+  {
+    "set": "C",
+    "id": "C11",
+    "position": 11,
+    "text": "かっこいい",
+    "character": "エボシカメレオン",
+    "reading": "かっこいい",
+    "tags": [
+      "称賛",
+      "会話"
+    ],
+    "image": "assets/stickers/C/11.png"
+  },
+  {
+    "set": "C",
+    "id": "C12",
+    "position": 12,
+    "text": "かわいい",
+    "character": "ウーパールーパー",
+    "reading": "かわいい",
+    "tags": [
+      "称賛",
+      "会話"
+    ],
+    "image": "assets/stickers/C/12.png"
+  },
+  {
+    "set": "C",
+    "id": "C13",
+    "position": 13,
+    "text": "素敵",
+    "character": "ウーパールーパー",
+    "reading": "すてき",
+    "tags": [
+      "称賛",
+      "会話"
+    ],
+    "image": "assets/stickers/C/13.png"
+  },
+  {
+    "set": "C",
+    "id": "C14",
+    "position": 14,
+    "text": "最高",
+    "character": "クオッカ",
+    "reading": "さいこう",
+    "tags": [
+      "喜び",
+      "会話"
+    ],
+    "image": "assets/stickers/C/14.png"
+  },
+  {
+    "set": "C",
+    "id": "C15",
+    "position": 15,
+    "text": "天才",
+    "character": "エボシカメレオン",
+    "reading": "てんさい",
+    "tags": [
+      "称賛",
+      "会話"
+    ],
+    "image": "assets/stickers/C/15.png"
+  },
+  {
+    "set": "C",
+    "id": "C16",
+    "position": 16,
+    "text": "いい！",
+    "character": "クオッカ",
+    "reading": "いい",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/C/16.png"
+  },
+  {
+    "set": "C",
+    "id": "C17",
+    "position": 17,
+    "text": "ぴったり",
+    "character": "エボシカメレオン",
+    "reading": "ぴったり",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/C/17.png"
+  },
+  {
+    "set": "C",
+    "id": "C18",
+    "position": 18,
+    "text": "ちょうど",
+    "character": "メンダコ",
+    "reading": "ちょうど",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/C/18.png"
+  },
+  {
+    "set": "C",
+    "id": "C19",
+    "position": 19,
+    "text": "完璧",
+    "character": "エボシカメレオン",
+    "reading": "かんぺき",
+    "tags": [
+      "喜び",
+      "会話"
+    ],
+    "image": "assets/stickers/C/19.png"
+  },
+  {
+    "set": "C",
+    "id": "C20",
+    "position": 20,
+    "text": "さすが",
+    "character": "マヌルネコ",
+    "reading": "さすが",
+    "tags": [
+      "称賛",
+      "会話"
+    ],
+    "image": "assets/stickers/C/20.png"
+  },
+  {
+    "set": "C",
+    "id": "C21",
+    "position": 21,
+    "text": "やるじゃん",
+    "character": "マヌルネコ",
+    "reading": "やるじゃん",
+    "tags": [
+      "称賛",
+      "会話"
+    ],
+    "image": "assets/stickers/C/21.png"
+  },
+  {
+    "set": "C",
+    "id": "C22",
+    "position": 22,
+    "text": "かなり",
+    "character": "マヌルネコ",
+    "reading": "かなり",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/C/22.png"
+  },
+  {
+    "set": "C",
+    "id": "C23",
+    "position": 23,
+    "text": "エッヘン",
+    "character": "マヌルネコ",
+    "reading": "えっへん",
+    "tags": [
+      "笑い",
+      "会話"
+    ],
+    "image": "assets/stickers/C/23.png"
+  },
+  {
+    "set": "C",
+    "id": "C24",
+    "position": 24,
+    "text": "ゼッタイ",
+    "character": "エボシカメレオン",
+    "reading": "ぜったい",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/C/24.png"
+  },
+  {
+    "set": "C",
+    "id": "C25",
+    "position": 25,
+    "text": "任せた",
+    "character": "マヌルネコ",
+    "reading": "まかせた",
+    "tags": [
+      "仕事",
+      "お願い"
+    ],
+    "image": "assets/stickers/C/25.png"
+  },
+  {
+    "set": "C",
+    "id": "C26",
+    "position": 26,
+    "text": "優勝",
+    "character": "クオッカ",
+    "reading": "ゆうしょう",
+    "tags": [
+      "喜び",
+      "会話"
+    ],
+    "image": "assets/stickers/C/26.png"
+  },
+  {
+    "set": "C",
+    "id": "C27",
+    "position": 27,
+    "text": "神",
+    "character": "エボシカメレオン",
+    "reading": "かみ",
+    "tags": [
+      "喜び",
+      "会話"
+    ],
+    "image": "assets/stickers/C/27.png"
+  },
+  {
+    "set": "C",
+    "id": "C28",
+    "position": 28,
+    "text": "なんと",
+    "character": "エボシカメレオン",
+    "reading": "なんと",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/C/28.png"
+  },
+  {
+    "set": "C",
+    "id": "C29",
+    "position": 29,
+    "text": "ふむ",
+    "character": "マヌルネコ",
+    "reading": "ふむ",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/C/29.png"
+  },
+  {
+    "set": "C",
+    "id": "C30",
+    "position": 30,
+    "text": "フフフ",
+    "character": "マヌルネコ",
+    "reading": "ふふふ",
+    "tags": [
+      "笑い",
+      "会話"
+    ],
+    "image": "assets/stickers/C/30.png"
+  },
+  {
+    "set": "C",
+    "id": "C31",
+    "position": 31,
+    "text": "サイコー",
+    "character": "メンダコ",
+    "reading": "さいこ",
+    "tags": [
+      "喜び",
+      "会話"
+    ],
+    "image": "assets/stickers/C/31.png"
+  },
+  {
+    "set": "C",
+    "id": "C32",
+    "position": 32,
+    "text": "やった！",
+    "character": "クオッカ",
+    "reading": "やった",
+    "tags": [
+      "喜び",
+      "会話"
+    ],
+    "image": "assets/stickers/C/32.png"
+  },
+  {
+    "set": "C",
+    "id": "C33",
+    "position": 33,
+    "text": "うれしい",
+    "character": "ウーパールーパー",
+    "reading": "うれしい",
+    "tags": [
+      "喜び",
+      "会話"
+    ],
+    "image": "assets/stickers/C/33.png"
+  },
+  {
+    "set": "C",
+    "id": "C34",
+    "position": 34,
+    "text": "パチパチ",
+    "character": "ウーパールーパー",
+    "reading": "ぱちぱち",
+    "tags": [
+      "喜び",
+      "会話"
+    ],
+    "image": "assets/stickers/C/34.png"
+  },
+  {
+    "set": "C",
+    "id": "C35",
+    "position": 35,
+    "text": "でーん",
+    "character": "メンダコ",
+    "reading": "でん",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/C/35.png"
+  },
+  {
+    "set": "C",
+    "id": "C36",
+    "position": 36,
+    "text": "ぜひぜひ",
+    "character": "ウーパールーパー",
+    "reading": "ぜひぜひ",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/C/36.png"
+  },
+  {
+    "set": "C",
+    "id": "C37",
+    "position": 37,
+    "text": "よき",
+    "character": "メンダコ",
+    "reading": "よき",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/C/37.png"
+  },
+  {
+    "set": "C",
+    "id": "C38",
+    "position": 38,
+    "text": "それでよし",
+    "character": "ハシビロコウ",
+    "reading": "それでよし",
+    "tags": [
+      "了承",
+      "会話"
+    ],
+    "image": "assets/stickers/C/38.png"
+  },
+  {
+    "set": "C",
+    "id": "C39",
+    "position": 39,
+    "text": "いい感じ",
+    "character": "ウーパールーパー",
+    "reading": "いいかんじ",
+    "tags": [
+      "称賛",
+      "会話"
+    ],
+    "image": "assets/stickers/C/39.png"
+  },
+  {
+    "set": "C",
+    "id": "C40",
+    "position": 40,
+    "text": "すごっ",
+    "character": "エボシカメレオン",
+    "reading": "すごっ",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/C/40.png"
+  },
+  {
+    "set": "D",
+    "id": "D01",
+    "position": 1,
+    "text": "きつい",
+    "character": "アフリカオオコノハズク",
+    "reading": "きつい",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/D/01.png"
+  },
+  {
+    "set": "D",
+    "id": "D02",
+    "position": 2,
+    "text": "それは",
+    "character": "オニオオハシ",
+    "reading": "それは",
+    "tags": [
+      "返事",
+      "会話"
+    ],
+    "image": "assets/stickers/D/02.png"
+  },
+  {
+    "set": "D",
+    "id": "D03",
+    "position": 3,
+    "text": "大変",
+    "character": "フェネック",
+    "reading": "たいへん",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/D/03.png"
+  },
+  {
+    "set": "D",
+    "id": "D04",
+    "position": 4,
+    "text": "ですね",
+    "character": "マレーバク",
+    "reading": "ですね",
+    "tags": [
+      "返事",
+      "会話"
+    ],
+    "image": "assets/stickers/D/04.png"
+  },
+  {
+    "set": "D",
+    "id": "D05",
+    "position": 5,
+    "text": "ゆっくりで",
+    "character": "ナマケモノ",
+    "reading": "ゆっくりで",
+    "tags": [
+      "応援",
+      "会話"
+    ],
+    "image": "assets/stickers/D/05.png"
+  },
+  {
+    "set": "D",
+    "id": "D06",
+    "position": 6,
+    "text": "お大事に",
+    "character": "フェネック",
+    "reading": "おだいじに",
+    "tags": [
+      "応援",
+      "会話"
+    ],
+    "image": "assets/stickers/D/06.png"
+  },
+  {
+    "set": "D",
+    "id": "D07",
+    "position": 7,
+    "text": "無理せず",
+    "character": "ナマケモノ",
+    "reading": "むりせず",
+    "tags": [
+      "応援",
+      "否定"
+    ],
+    "image": "assets/stickers/D/07.png"
+  },
+  {
+    "set": "D",
+    "id": "D08",
+    "position": 8,
+    "text": "ちゃんと",
+    "character": "ワオキツネザル",
+    "reading": "ちゃんと",
+    "tags": [
+      "催促",
+      "会話"
+    ],
+    "image": "assets/stickers/D/08.png"
+  },
+  {
+    "set": "D",
+    "id": "D09",
+    "position": 9,
+    "text": "休め",
+    "character": "アフリカオオコノハズク",
+    "reading": "やすめ",
+    "tags": [
+      "催促",
+      "会話"
+    ],
+    "image": "assets/stickers/D/09.png"
+  },
+  {
+    "set": "D",
+    "id": "D10",
+    "position": 10,
+    "text": "落ち着く",
+    "character": "ナマケモノ",
+    "reading": "おちつく",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/D/10.png"
+  },
+  {
+    "set": "D",
+    "id": "D11",
+    "position": 11,
+    "text": "落ち着け",
+    "character": "アフリカオオコノハズク",
+    "reading": "おちつけ",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/D/11.png"
+  },
+  {
+    "set": "D",
+    "id": "D12",
+    "position": 12,
+    "text": "ショック",
+    "character": "アフリカオオコノハズク",
+    "reading": "しょっく",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/D/12.png"
+  },
+  {
+    "set": "D",
+    "id": "D13",
+    "position": 13,
+    "text": "これは",
+    "character": "アフリカオオコノハズク",
+    "reading": "これは",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/D/13.png"
+  },
+  {
+    "set": "D",
+    "id": "D14",
+    "position": 14,
+    "text": "ダメ",
+    "character": "ワオキツネザル",
+    "reading": "だめ",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/D/14.png"
+  },
+  {
+    "set": "D",
+    "id": "D15",
+    "position": 15,
+    "text": "どうにも",
+    "character": "ナマケモノ",
+    "reading": "どうにも",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/D/15.png"
+  },
+  {
+    "set": "D",
+    "id": "D16",
+    "position": 16,
+    "text": "ならん",
+    "character": "マレーバク",
+    "reading": "ならん",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/D/16.png"
+  },
+  {
+    "set": "D",
+    "id": "D17",
+    "position": 17,
+    "text": "厳しい",
+    "character": "アフリカオオコノハズク",
+    "reading": "きびしい",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/D/17.png"
+  },
+  {
+    "set": "D",
+    "id": "D18",
+    "position": 18,
+    "text": "ねえ",
+    "character": "フェネック",
+    "reading": "ねえ",
+    "tags": [
+      "催促",
+      "会話"
+    ],
+    "image": "assets/stickers/D/18.png"
+  },
+  {
+    "set": "D",
+    "id": "D19",
+    "position": 19,
+    "text": "痛恨",
+    "character": "オニオオハシ",
+    "reading": "つうこん",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/D/19.png"
+  },
+  {
+    "set": "D",
+    "id": "D20",
+    "position": 20,
+    "text": "わああ",
+    "character": "オニオオハシ",
+    "reading": "わああ",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/D/20.png"
+  },
+  {
+    "set": "D",
+    "id": "D21",
+    "position": 21,
+    "text": "やれん",
+    "character": "ナマケモノ",
+    "reading": "やれん",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/D/21.png"
+  },
+  {
+    "set": "D",
+    "id": "D22",
+    "position": 22,
+    "text": "甘い",
+    "character": "ワオキツネザル",
+    "reading": "あまい",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/D/22.png"
+  },
+  {
+    "set": "D",
+    "id": "D23",
+    "position": 23,
+    "text": "やっちまった",
+    "character": "ワオキツネザル",
+    "reading": "やっちまった",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/D/23.png"
+  },
+  {
+    "set": "D",
+    "id": "D24",
+    "position": 24,
+    "text": "やや",
+    "character": "マレーバク",
+    "reading": "やや",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/D/24.png"
+  },
+  {
+    "set": "D",
+    "id": "D25",
+    "position": 25,
+    "text": "カッコ悪い",
+    "character": "ワオキツネザル",
+    "reading": "かっこわるい",
+    "tags": [
+      "笑い",
+      "会話"
+    ],
+    "image": "assets/stickers/D/25.png"
+  },
+  {
+    "set": "D",
+    "id": "D26",
+    "position": 26,
+    "text": "くそー",
+    "character": "オニオオハシ",
+    "reading": "くそ",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/D/26.png"
+  },
+  {
+    "set": "D",
+    "id": "D27",
+    "position": 27,
+    "text": "いやいや",
+    "character": "オニオオハシ",
+    "reading": "いやいや",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/D/27.png"
+  },
+  {
+    "set": "D",
+    "id": "D28",
+    "position": 28,
+    "text": "そ〜じゃなくて",
+    "character": "マレーバク",
+    "reading": "そじゃなくて",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/D/28.png"
+  },
+  {
+    "set": "D",
+    "id": "D29",
+    "position": 29,
+    "text": "それはない",
+    "character": "マレーバク",
+    "reading": "それはない",
+    "tags": [
+      "返事",
+      "否定"
+    ],
+    "image": "assets/stickers/D/29.png"
+  },
+  {
+    "set": "D",
+    "id": "D30",
+    "position": 30,
+    "text": "そうなる",
+    "character": "ワオキツネザル",
+    "reading": "そうなる",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/D/30.png"
+  },
+  {
+    "set": "D",
+    "id": "D31",
+    "position": 31,
+    "text": "さすがに",
+    "character": "ワオキツネザル",
+    "reading": "さすがに",
+    "tags": [
+      "称賛",
+      "会話"
+    ],
+    "image": "assets/stickers/D/31.png"
+  },
+  {
+    "set": "D",
+    "id": "D32",
+    "position": 32,
+    "text": "無理",
+    "character": "マレーバク",
+    "reading": "むり",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/D/32.png"
+  },
+  {
+    "set": "D",
+    "id": "D33",
+    "position": 33,
+    "text": "話が違う",
+    "character": "オニオオハシ",
+    "reading": "はなしがちがう",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/D/33.png"
+  },
+  {
+    "set": "D",
+    "id": "D34",
+    "position": 34,
+    "text": "違う",
+    "character": "オニオオハシ",
+    "reading": "ちがう",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/D/34.png"
+  },
+  {
+    "set": "D",
+    "id": "D35",
+    "position": 35,
+    "text": "心配",
+    "character": "フェネック",
+    "reading": "しんぱい",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/D/35.png"
+  },
+  {
+    "set": "D",
+    "id": "D36",
+    "position": 36,
+    "text": "不安",
+    "character": "フェネック",
+    "reading": "ふあん",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/D/36.png"
+  },
+  {
+    "set": "D",
+    "id": "D37",
+    "position": 37,
+    "text": "参った",
+    "character": "フェネック",
+    "reading": "まいった",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/D/37.png"
+  },
+  {
+    "set": "D",
+    "id": "D38",
+    "position": 38,
+    "text": "仕方ない",
+    "character": "ナマケモノ",
+    "reading": "しかたない",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/D/38.png"
+  },
+  {
+    "set": "D",
+    "id": "D39",
+    "position": 39,
+    "text": "論外",
+    "character": "アフリカオオコノハズク",
+    "reading": "ろんがい",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/D/39.png"
+  },
+  {
+    "set": "D",
+    "id": "D40",
+    "position": 40,
+    "text": "困った",
+    "character": "フェネック",
+    "reading": "こまった",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/D/40.png"
+  },
+  {
+    "set": "E",
+    "id": "E01",
+    "position": 1,
+    "text": "突然",
+    "character": "オニオオハシ",
+    "reading": "とつぜん",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/E/01.png"
+  },
+  {
+    "set": "E",
+    "id": "E02",
+    "position": 2,
+    "text": "ですが",
+    "character": "オニオオハシ",
+    "reading": "ですが",
+    "tags": [
+      "返事",
+      "会話"
+    ],
+    "image": "assets/stickers/E/02.png"
+  },
+  {
+    "set": "E",
+    "id": "E03",
+    "position": 3,
+    "text": "でも",
+    "character": "マレーバク",
+    "reading": "でも",
+    "tags": [
+      "返事",
+      "会話"
+    ],
+    "image": "assets/stickers/E/03.png"
+  },
+  {
+    "set": "E",
+    "id": "E04",
+    "position": 4,
+    "text": "行きます",
+    "character": "オニオオハシ",
+    "reading": "いきます",
+    "tags": [
+      "移動",
+      "会話"
+    ],
+    "image": "assets/stickers/E/04.png"
+  },
+  {
+    "set": "E",
+    "id": "E05",
+    "position": 5,
+    "text": "久しぶり",
+    "character": "フェネック",
+    "reading": "ひさしぶり",
+    "tags": [
+      "挨拶",
+      "会話"
+    ],
+    "image": "assets/stickers/E/05.png"
+  },
+  {
+    "set": "E",
+    "id": "E06",
+    "position": 6,
+    "text": "会わない？",
+    "character": "フェネック",
+    "reading": "あわない",
+    "tags": [
+      "確認",
+      "会話"
+    ],
+    "image": "assets/stickers/E/06.png"
+  },
+  {
+    "set": "E",
+    "id": "E07",
+    "position": 7,
+    "text": "遊ぼ",
+    "character": "ワオキツネザル",
+    "reading": "あそぼ",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/E/07.png"
+  },
+  {
+    "set": "E",
+    "id": "E08",
+    "position": 8,
+    "text": "誘って",
+    "character": "オニオオハシ",
+    "reading": "さそって",
+    "tags": [
+      "催促",
+      "お願い"
+    ],
+    "image": "assets/stickers/E/08.png"
+  },
+  {
+    "set": "E",
+    "id": "E09",
+    "position": 9,
+    "text": "ください",
+    "character": "フェネック",
+    "reading": "ください",
+    "tags": [
+      "催促",
+      "お願い"
+    ],
+    "image": "assets/stickers/E/09.png"
+  },
+  {
+    "set": "E",
+    "id": "E10",
+    "position": 10,
+    "text": "みんな",
+    "character": "ワオキツネザル",
+    "reading": "みんな",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/E/10.png"
+  },
+  {
+    "set": "E",
+    "id": "E11",
+    "position": 11,
+    "text": "きっと",
+    "character": "ワオキツネザル",
+    "reading": "きっと",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/E/11.png"
+  },
+  {
+    "set": "E",
+    "id": "E12",
+    "position": 12,
+    "text": "余裕がない",
+    "character": "ナマケモノ",
+    "reading": "よゆうがない",
+    "tags": [
+      "仕事",
+      "会話"
+    ],
+    "image": "assets/stickers/E/12.png"
+  },
+  {
+    "set": "E",
+    "id": "E13",
+    "position": 13,
+    "text": "いってらっしゃい",
+    "character": "アフリカオオコノハズク",
+    "reading": "いってらっしゃい",
+    "tags": [
+      "挨拶",
+      "移動"
+    ],
+    "image": "assets/stickers/E/13.png"
+  },
+  {
+    "set": "E",
+    "id": "E14",
+    "position": 14,
+    "text": "気をつけて",
+    "character": "フェネック",
+    "reading": "きをつけて",
+    "tags": [
+      "応援",
+      "会話"
+    ],
+    "image": "assets/stickers/E/14.png"
+  },
+  {
+    "set": "E",
+    "id": "E15",
+    "position": 15,
+    "text": "まずは",
+    "character": "アフリカオオコノハズク",
+    "reading": "まずは",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/E/15.png"
+  },
+  {
+    "set": "E",
+    "id": "E16",
+    "position": 16,
+    "text": "やってみよう",
+    "character": "ワオキツネザル",
+    "reading": "やってみよう",
+    "tags": [
+      "応援",
+      "会話"
+    ],
+    "image": "assets/stickers/E/16.png"
+  },
+  {
+    "set": "E",
+    "id": "E17",
+    "position": 17,
+    "text": "今",
+    "character": "マレーバク",
+    "reading": "いま",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/E/17.png"
+  },
+  {
+    "set": "E",
+    "id": "E18",
+    "position": 18,
+    "text": "今日",
+    "character": "ナマケモノ",
+    "reading": "きょう",
+    "tags": [
+      "予定",
+      "会話"
+    ],
+    "image": "assets/stickers/E/18.png"
+  },
+  {
+    "set": "E",
+    "id": "E19",
+    "position": 19,
+    "text": "明日",
+    "character": "フェネック",
+    "reading": "あした",
+    "tags": [
+      "予定",
+      "会話"
+    ],
+    "image": "assets/stickers/E/19.png"
+  },
+  {
+    "set": "E",
+    "id": "E20",
+    "position": 20,
+    "text": "今週は？",
+    "character": "ナマケモノ",
+    "reading": "こんしゅうは",
+    "tags": [
+      "確認",
+      "予定"
+    ],
+    "image": "assets/stickers/E/20.png"
+  },
+  {
+    "set": "E",
+    "id": "E21",
+    "position": 21,
+    "text": "来週は？",
+    "character": "ナマケモノ",
+    "reading": "らいしゅうは",
+    "tags": [
+      "確認",
+      "予定"
+    ],
+    "image": "assets/stickers/E/21.png"
+  },
+  {
+    "set": "E",
+    "id": "E22",
+    "position": 22,
+    "text": "いつでも",
+    "character": "フェネック",
+    "reading": "いつでも",
+    "tags": [
+      "返事",
+      "確認",
+      "予定"
+    ],
+    "image": "assets/stickers/E/22.png"
+  },
+  {
+    "set": "E",
+    "id": "E23",
+    "position": 23,
+    "text": "空いてる",
+    "character": "ナマケモノ",
+    "reading": "あいてる",
+    "tags": [
+      "確認",
+      "予定"
+    ],
+    "image": "assets/stickers/E/23.png"
+  },
+  {
+    "set": "E",
+    "id": "E24",
+    "position": 24,
+    "text": "暇",
+    "character": "ナマケモノ",
+    "reading": "ひま",
+    "tags": [
+      "予定",
+      "会話"
+    ],
+    "image": "assets/stickers/E/24.png"
+  },
+  {
+    "set": "E",
+    "id": "E25",
+    "position": 25,
+    "text": "ですか？",
+    "character": "マレーバク",
+    "reading": "ですか",
+    "tags": [
+      "確認",
+      "会話"
+    ],
+    "image": "assets/stickers/E/25.png"
+  },
+  {
+    "set": "E",
+    "id": "E26",
+    "position": 26,
+    "text": "偶然",
+    "character": "マレーバク",
+    "reading": "ぐうぜん",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/E/26.png"
+  },
+  {
+    "set": "E",
+    "id": "E27",
+    "position": 27,
+    "text": "正解",
+    "character": "アフリカオオコノハズク",
+    "reading": "せいかい",
+    "tags": [
+      "仕事",
+      "会話"
+    ],
+    "image": "assets/stickers/E/27.png"
+  },
+  {
+    "set": "E",
+    "id": "E28",
+    "position": 28,
+    "text": "堂々と",
+    "character": "ワオキツネザル",
+    "reading": "どうどうと",
+    "tags": [
+      "称賛",
+      "会話"
+    ],
+    "image": "assets/stickers/E/28.png"
+  },
+  {
+    "set": "E",
+    "id": "E29",
+    "position": 29,
+    "text": "忘れて",
+    "character": "アフリカオオコノハズク",
+    "reading": "わすれて",
+    "tags": [
+      "会話終了",
+      "会話"
+    ],
+    "image": "assets/stickers/E/29.png"
+  },
+  {
+    "set": "E",
+    "id": "E30",
+    "position": 30,
+    "text": "わざわざ",
+    "character": "マレーバク",
+    "reading": "わざわざ",
+    "tags": [
+      "感謝",
+      "会話"
+    ],
+    "image": "assets/stickers/E/30.png"
+  },
+  {
+    "set": "E",
+    "id": "E31",
+    "position": 31,
+    "text": "深くは",
+    "character": "アフリカオオコノハズク",
+    "reading": "ふかくは",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/E/31.png"
+  },
+  {
+    "set": "E",
+    "id": "E32",
+    "position": 32,
+    "text": "漠然と",
+    "character": "マレーバク",
+    "reading": "ばくぜんと",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/E/32.png"
+  },
+  {
+    "set": "E",
+    "id": "E33",
+    "position": 33,
+    "text": "なんとなく",
+    "character": "マレーバク",
+    "reading": "なんとなく",
+    "tags": [
+      "驚き",
+      "会話"
+    ],
+    "image": "assets/stickers/E/33.png"
+  },
+  {
+    "set": "E",
+    "id": "E34",
+    "position": 34,
+    "text": "もしもし",
+    "character": "オニオオハシ",
+    "reading": "もしもし",
+    "tags": [
+      "挨拶",
+      "会話"
+    ],
+    "image": "assets/stickers/E/34.png"
+  },
+  {
+    "set": "E",
+    "id": "E35",
+    "position": 35,
+    "text": "ところで",
+    "character": "オニオオハシ",
+    "reading": "ところで",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/E/35.png"
+  },
+  {
+    "set": "E",
+    "id": "E36",
+    "position": 36,
+    "text": "それなら",
+    "character": "アフリカオオコノハズク",
+    "reading": "それなら",
+    "tags": [
+      "返事",
+      "会話"
+    ],
+    "image": "assets/stickers/E/36.png"
+  },
+  {
+    "set": "E",
+    "id": "E37",
+    "position": 37,
+    "text": "じゃあ",
+    "character": "オニオオハシ",
+    "reading": "じゃあ",
+    "tags": [
+      "返事",
+      "会話"
+    ],
+    "image": "assets/stickers/E/37.png"
+  },
+  {
+    "set": "E",
+    "id": "E38",
+    "position": 38,
+    "text": "ときどき",
+    "character": "ナマケモノ",
+    "reading": "ときどき",
+    "tags": [
+      "予定",
+      "会話"
+    ],
+    "image": "assets/stickers/E/38.png"
+  },
+  {
+    "set": "E",
+    "id": "E39",
+    "position": 39,
+    "text": "またね",
+    "character": "ワオキツネザル",
+    "reading": "またね",
+    "tags": [
+      "挨拶",
+      "会話終了"
+    ],
+    "image": "assets/stickers/E/39.png"
+  },
+  {
+    "set": "E",
+    "id": "E40",
+    "position": 40,
+    "text": "どうする？",
+    "character": "フェネック",
+    "reading": "どうする",
+    "tags": [
+      "確認",
+      "会話"
+    ],
+    "image": "assets/stickers/E/40.png"
+  },
+  {
+    "set": "F",
+    "id": "F01",
+    "position": 1,
+    "text": "寝ろ",
+    "character": "アフリカオオコノハズク",
+    "reading": "ねろ",
+    "tags": [
+      "催促",
+      "会話終了"
+    ],
+    "image": "assets/stickers/F/01.png"
+  },
+  {
+    "set": "F",
+    "id": "F02",
+    "position": 2,
+    "text": "食って寝ろ",
+    "character": "マレーバク",
+    "reading": "くってねろ",
+    "tags": [
+      "催促",
+      "会話終了",
+      "日常"
+    ],
+    "image": "assets/stickers/F/02.png"
+  },
+  {
+    "set": "F",
+    "id": "F03",
+    "position": 3,
+    "text": "それさえあれば",
+    "character": "ナマケモノ",
+    "reading": "それさえあれば",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/03.png"
+  },
+  {
+    "set": "F",
+    "id": "F04",
+    "position": 4,
+    "text": "ボケボケ",
+    "character": "ワオキツネザル",
+    "reading": "ぼけぼけ",
+    "tags": [
+      "笑い",
+      "会話"
+    ],
+    "image": "assets/stickers/F/04.png"
+  },
+  {
+    "set": "F",
+    "id": "F05",
+    "position": 5,
+    "text": "ボケてる",
+    "character": "アフリカオオコノハズク",
+    "reading": "ぼけてる",
+    "tags": [
+      "笑い",
+      "会話"
+    ],
+    "image": "assets/stickers/F/05.png"
+  },
+  {
+    "set": "F",
+    "id": "F06",
+    "position": 6,
+    "text": "失敗",
+    "character": "オニオオハシ",
+    "reading": "しっぱい",
+    "tags": [
+      "仕事",
+      "落胆"
+    ],
+    "image": "assets/stickers/F/06.png"
+  },
+  {
+    "set": "F",
+    "id": "F07",
+    "position": 7,
+    "text": "やり直し",
+    "character": "フェネック",
+    "reading": "やりなおし",
+    "tags": [
+      "仕事",
+      "会話"
+    ],
+    "image": "assets/stickers/F/07.png"
+  },
+  {
+    "set": "F",
+    "id": "F08",
+    "position": 8,
+    "text": "言いすぎ",
+    "character": "ワオキツネザル",
+    "reading": "いいすぎ",
+    "tags": [
+      "謝罪",
+      "会話"
+    ],
+    "image": "assets/stickers/F/08.png"
+  },
+  {
+    "set": "F",
+    "id": "F09",
+    "position": 9,
+    "text": "考えすぎ",
+    "character": "アフリカオオコノハズク",
+    "reading": "かんがえすぎ",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/09.png"
+  },
+  {
+    "set": "F",
+    "id": "F10",
+    "position": 10,
+    "text": "調子こいた",
+    "character": "オニオオハシ",
+    "reading": "ちょうしこいた",
+    "tags": [
+      "笑い",
+      "会話"
+    ],
+    "image": "assets/stickers/F/10.png"
+  },
+  {
+    "set": "F",
+    "id": "F11",
+    "position": 11,
+    "text": "不覚",
+    "character": "アフリカオオコノハズク",
+    "reading": "ふかく",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/F/11.png"
+  },
+  {
+    "set": "F",
+    "id": "F12",
+    "position": 12,
+    "text": "恥ずかし",
+    "character": "ワオキツネザル",
+    "reading": "はずかし",
+    "tags": [
+      "謝罪",
+      "会話"
+    ],
+    "image": "assets/stickers/F/12.png"
+  },
+  {
+    "set": "F",
+    "id": "F13",
+    "position": 13,
+    "text": "がっくし",
+    "character": "ナマケモノ",
+    "reading": "がっくし",
+    "tags": [
+      "落胆",
+      "会話"
+    ],
+    "image": "assets/stickers/F/13.png"
+  },
+  {
+    "set": "F",
+    "id": "F14",
+    "position": 14,
+    "text": "欲",
+    "character": "マレーバク",
+    "reading": "よく",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/14.png"
+  },
+  {
+    "set": "F",
+    "id": "F15",
+    "position": 15,
+    "text": "欲しい",
+    "character": "フェネック",
+    "reading": "ほしい",
+    "tags": [
+      "日常"
+    ],
+    "image": "assets/stickers/F/15.png"
+  },
+  {
+    "set": "F",
+    "id": "F16",
+    "position": 16,
+    "text": "欲張った",
+    "character": "ワオキツネザル",
+    "reading": "よくばった",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/16.png"
+  },
+  {
+    "set": "F",
+    "id": "F17",
+    "position": 17,
+    "text": "買った",
+    "character": "マレーバク",
+    "reading": "かった",
+    "tags": [
+      "日常"
+    ],
+    "image": "assets/stickers/F/17.png"
+  },
+  {
+    "set": "F",
+    "id": "F18",
+    "position": 18,
+    "text": "買っちまった",
+    "character": "オニオオハシ",
+    "reading": "かっちまった",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/18.png"
+  },
+  {
+    "set": "F",
+    "id": "F19",
+    "position": 19,
+    "text": "ついつい",
+    "character": "フェネック",
+    "reading": "ついつい",
+    "tags": [
+      "確認",
+      "会話"
+    ],
+    "image": "assets/stickers/F/19.png"
+  },
+  {
+    "set": "F",
+    "id": "F20",
+    "position": 20,
+    "text": "またまた",
+    "character": "アフリカオオコノハズク",
+    "reading": "またまた",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/20.png"
+  },
+  {
+    "set": "F",
+    "id": "F21",
+    "position": 21,
+    "text": "自己都合",
+    "character": "マレーバク",
+    "reading": "じこつごう",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/21.png"
+  },
+  {
+    "set": "F",
+    "id": "F22",
+    "position": 22,
+    "text": "とりあえず",
+    "character": "ナマケモノ",
+    "reading": "とりあえず",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/22.png"
+  },
+  {
+    "set": "F",
+    "id": "F23",
+    "position": 23,
+    "text": "サクッと",
+    "character": "オニオオハシ",
+    "reading": "さくっと",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/23.png"
+  },
+  {
+    "set": "F",
+    "id": "F24",
+    "position": 24,
+    "text": "止まらん",
+    "character": "ワオキツネザル",
+    "reading": "とまらん",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/24.png"
+  },
+  {
+    "set": "F",
+    "id": "F25",
+    "position": 25,
+    "text": "未確認",
+    "character": "アフリカオオコノハズク",
+    "reading": "みかくにん",
+    "tags": [
+      "確認",
+      "仕事"
+    ],
+    "image": "assets/stickers/F/25.png"
+  },
+  {
+    "set": "F",
+    "id": "F26",
+    "position": 26,
+    "text": "うろ覚え",
+    "character": "フェネック",
+    "reading": "うろおぼえ",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/26.png"
+  },
+  {
+    "set": "F",
+    "id": "F27",
+    "position": 27,
+    "text": "知らなんだ",
+    "character": "マレーバク",
+    "reading": "しらなんだ",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/27.png"
+  },
+  {
+    "set": "F",
+    "id": "F28",
+    "position": 28,
+    "text": "見とらん",
+    "character": "ナマケモノ",
+    "reading": "みとらん",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/F/28.png"
+  },
+  {
+    "set": "F",
+    "id": "F29",
+    "position": 29,
+    "text": "読んどらん",
+    "character": "ワオキツネザル",
+    "reading": "よんどらん",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/F/29.png"
+  },
+  {
+    "set": "F",
+    "id": "F30",
+    "position": 30,
+    "text": "聞いとらん",
+    "character": "アフリカオオコノハズク",
+    "reading": "きいとらん",
+    "tags": [
+      "否定",
+      "会話"
+    ],
+    "image": "assets/stickers/F/30.png"
+  },
+  {
+    "set": "F",
+    "id": "F31",
+    "position": 31,
+    "text": "そして",
+    "character": "オニオオハシ",
+    "reading": "そして",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/31.png"
+  },
+  {
+    "set": "F",
+    "id": "F32",
+    "position": 32,
+    "text": "もう",
+    "character": "ナマケモノ",
+    "reading": "もう",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/32.png"
+  },
+  {
+    "set": "F",
+    "id": "F33",
+    "position": 33,
+    "text": "やっぱ",
+    "character": "フェネック",
+    "reading": "やっぱ",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/33.png"
+  },
+  {
+    "set": "F",
+    "id": "F34",
+    "position": 34,
+    "text": "飽きた",
+    "character": "ワオキツネザル",
+    "reading": "あきた",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/34.png"
+  },
+  {
+    "set": "F",
+    "id": "F35",
+    "position": 35,
+    "text": "やめた",
+    "character": "マレーバク",
+    "reading": "やめた",
+    "tags": [
+      "会話終了",
+      "会話"
+    ],
+    "image": "assets/stickers/F/35.png"
+  },
+  {
+    "set": "F",
+    "id": "F36",
+    "position": 36,
+    "text": "すっきり",
+    "character": "ナマケモノ",
+    "reading": "すっきり",
+    "tags": [
+      "日常"
+    ],
+    "image": "assets/stickers/F/36.png"
+  },
+  {
+    "set": "F",
+    "id": "F37",
+    "position": 37,
+    "text": "できたて",
+    "character": "オニオオハシ",
+    "reading": "できたて",
+    "tags": [
+      "仕事",
+      "会話"
+    ],
+    "image": "assets/stickers/F/37.png"
+  },
+  {
+    "set": "F",
+    "id": "F38",
+    "position": 38,
+    "text": "ホヤホヤ",
+    "character": "フェネック",
+    "reading": "ほやほや",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/38.png"
+  },
+  {
+    "set": "F",
+    "id": "F39",
+    "position": 39,
+    "text": "任せる",
+    "character": "マレーバク",
+    "reading": "まかせる",
+    "tags": [
+      "仕事",
+      "お願い"
+    ],
+    "image": "assets/stickers/F/39.png"
+  },
+  {
+    "set": "F",
+    "id": "F40",
+    "position": 40,
+    "text": "懐かしい",
+    "character": "ナマケモノ",
+    "reading": "なつかしい",
+    "tags": [
+      "会話"
+    ],
+    "image": "assets/stickers/F/40.png"
+  }
+]

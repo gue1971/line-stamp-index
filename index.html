@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fff8ec">
+  <title>LINEスタンプ索引</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="sticky-tools">
+    <div class="search-wrap" role="search">
+      <label class="sr-only" for="search">セリフを検索</label>
+      <span class="search-icon" aria-hidden="true">⌕</span>
+      <input id="search" type="search" autocomplete="off">
+      <button id="clear-search" type="button" aria-label="検索をクリア">クリア</button>
+    </div>
+    <nav class="kana-nav" aria-label="50音ジャンプ"></nav>
+  </div>
+
+  <main id="main" class="main">
+    <p id="result-summary" class="sr-only" aria-live="polite">読み込み中…</p>
+    <div id="sticker-sections"></div>
+    <div id="empty" class="empty" hidden>
+      <div aria-hidden="true">🔎</div>
+      <p>該当する作成済みスタンプはありません</p>
+      <button type="button" id="empty-clear">検索をクリア</button>
+    </div>
+  </main>
+
+  <dialog id="detail-dialog" aria-labelledby="detail-title">
+    <button class="dialog-close" type="button" aria-label="詳細を閉じる">×</button>
+    <div id="detail-content"></div>
+  </dialog>
+  <script src="app.js" defer></script>
+</body>
+</html>
