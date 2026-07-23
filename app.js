@@ -7,6 +7,7 @@ const GROUPS = [
 ];
 const $ = (selector, root=document) => root.querySelector(selector);
 let stickers = [];
+let revealFrame = 0;
 
 function normalize(value) {
   return value.normalize("NFKC").toLowerCase().replace(/[ァ-ヶ]/g, c => String.fromCharCode(c.charCodeAt(0)-0x60)).replace(/[\s\p{P}\p{S}ー〜]/gu, "");
@@ -24,6 +25,14 @@ function card(sticker) {
     <span class="image-stage"><img src="${sticker.image}" alt="${sticker.text}" loading="lazy" width="370" height="320"></span>
     ${setMarker(sticker)}
   </button>`;
+}
+
+function revealSearchResults() {
+  if (!window.matchMedia("(max-width: 600px)").matches) return;
+  cancelAnimationFrame(revealFrame);
+  revealFrame = requestAnimationFrame(() => {
+    revealFrame = requestAnimationFrame(() => window.scrollTo({top:0, left:0, behavior:"auto"}));
+  });
 }
 
 function render() {
@@ -49,7 +58,9 @@ function render() {
   $("#empty").hidden = filtered.length > 0;
   $("#result-summary").textContent = query ? `「${raw.trim()}」の検索結果 ${filtered.length}件` : `全${stickers.length}件・50音順`;
   $("#clear-search").classList.toggle("visible", Boolean(raw));
+  document.body.classList.toggle("searching", Boolean(query));
   document.querySelectorAll(".kana-nav button").forEach(btn => btn.disabled = Boolean(query) || !$( `#row-${btn.dataset.group}`));
+  if (query) revealSearchResults();
 }
 
 function relatedFor(sticker) {
@@ -75,7 +86,8 @@ async function init() {
     stickers = await response.json(); stickers.sort(sortJapanese);
     $(".kana-nav").innerHTML = GROUPS.map(g=>`<button type="button" data-group="${g.key}">${g.label}</button>`).join("");
     render();
-    $("#search").addEventListener("input",render); $("#clear-search").addEventListener("click",clearSearch); $("#empty-clear").addEventListener("click",clearSearch);
+    $("#search").addEventListener("input",render); $("#search").addEventListener("focus",()=>{if($("#search").value) revealSearchResults();}); $("#clear-search").addEventListener("click",clearSearch); $("#empty-clear").addEventListener("click",clearSearch);
+    window.visualViewport?.addEventListener("resize",()=>{if(document.activeElement===$("#search") && $("#search").value) revealSearchResults();});
     $(".kana-nav").addEventListener("click",e=>{const b=e.target.closest("button:not(:disabled)"); if(b) $(`#row-${b.dataset.group}`)?.scrollIntoView({behavior:"smooth"});});
     $("#sticker-sections").addEventListener("click",e=>{const c=e.target.closest("[data-id]"); if(c) showDetail(c.dataset.id);});
     $("#detail-dialog").addEventListener("click",e=>{if(e.target===$("#detail-dialog")||e.target.closest(".dialog-close")) $("#detail-dialog").close(); const r=e.target.closest("[data-related]"); if(r) showDetail(r.dataset.related);});

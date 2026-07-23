@@ -61,6 +61,7 @@ dialog::backdrop { background:rgba(42,34,29,.52); backdrop-filter:blur(4px); }
   .search-wrap{min-height:46px}
   #search{padding-block:10px}
   .kana-nav{margin-top:6px}
+  body.searching .kana-nav{display:none}
   .kana-nav button{min-height:35px}
   .main{padding:10px 12px 24px}
   .kana-section{scroll-margin-top:10px}
