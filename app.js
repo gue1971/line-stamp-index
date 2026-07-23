@@ -31,7 +31,14 @@ function revealSearchResults() {
   if (!window.matchMedia("(max-width: 600px)").matches) return;
   cancelAnimationFrame(revealFrame);
   revealFrame = requestAnimationFrame(() => {
-    revealFrame = requestAnimationFrame(() => window.scrollTo({top:0, left:0, behavior:"auto"}));
+    revealFrame = requestAnimationFrame(() => {
+      const viewport = window.visualViewport;
+      const toolsHeight = $(".sticky-tools").getBoundingClientRect().height;
+      document.documentElement.style.setProperty("--search-viewport-top", `${viewport?.offsetTop || 0}px`);
+      document.documentElement.style.setProperty("--search-viewport-height", `${viewport?.height || window.innerHeight}px`);
+      document.documentElement.style.setProperty("--search-tools-height", `${toolsHeight}px`);
+      $("#main").scrollTop = 0;
+    });
   });
 }
 
@@ -87,7 +94,8 @@ async function init() {
     $(".kana-nav").innerHTML = GROUPS.map(g=>`<button type="button" data-group="${g.key}">${g.label}</button>`).join("");
     render();
     $("#search").addEventListener("input",render); $("#search").addEventListener("focus",()=>{if($("#search").value) revealSearchResults();}); $("#clear-search").addEventListener("click",clearSearch); $("#empty-clear").addEventListener("click",clearSearch);
-    window.visualViewport?.addEventListener("resize",()=>{if(document.activeElement===$("#search") && $("#search").value) revealSearchResults();});
+    window.visualViewport?.addEventListener("resize",()=>{if($("#search").value) revealSearchResults();});
+    window.visualViewport?.addEventListener("scroll",()=>{if($("#search").value) revealSearchResults();});
     $(".kana-nav").addEventListener("click",e=>{const b=e.target.closest("button:not(:disabled)"); if(b) $(`#row-${b.dataset.group}`)?.scrollIntoView({behavior:"smooth"});});
     $("#sticker-sections").addEventListener("click",e=>{const c=e.target.closest("[data-id]"); if(c) showDetail(c.dataset.id);});
     $("#detail-dialog").addEventListener("click",e=>{if(e.target===$("#detail-dialog")||e.target.closest(".dialog-close")) $("#detail-dialog").close(); const r=e.target.closest("[data-related]"); if(r) showDetail(r.dataset.related);});
