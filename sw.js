@@ -1,4 +1,4 @@
-const CACHE_NAME = "line-stamp-index-v3";
+const CACHE_NAME = "line-stamp-index-v4";
 const APP_SHELL = [
   "./",
   "./index.html",
