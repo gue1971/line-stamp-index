@@ -2,6 +2,7 @@ import fs from "node:fs";
 import assert from "node:assert/strict";
 
 const rows = JSON.parse(fs.readFileSync(new URL("../data/stickers.json", import.meta.url), "utf8"));
+const manifest = JSON.parse(fs.readFileSync(new URL("../manifest.webmanifest", import.meta.url), "utf8"));
 assert.equal(rows.length, 240, "240件であること");
 assert.equal(new Set(rows.map(r=>r.id)).size, 240, "IDが重複しないこと");
 for (const set of "ABCDEF") {
@@ -22,4 +23,7 @@ assert.ok(find("ｵｯｹｰ").some(r=>r.id==="A01"),"半角カナ吸収");
 assert.ok(find("どうする！").some(r=>r.id==="E40"),"句読点・感嘆符吸収");
 const sorted=[...rows].sort((a,b)=>a.reading.localeCompare(b.reading,"ja",{usage:"sort"})||a.id.localeCompare(b.id));
 assert.equal(sorted[0].id,"E23","読み仮名順の先頭確認");
-console.log("OK: 240件、ID、欠番、画像、読み、タグ、検索正規化、並び順を検証しました。");
+assert.equal(manifest.display,"standalone","PWA standalone表示");
+assert.ok(fs.existsSync(new URL("../sw.js",import.meta.url)),"Service Worker");
+for (const icon of manifest.icons) assert.ok(fs.existsSync(new URL(`../${icon.src}`,import.meta.url)),`PWAアイコン ${icon.src}`);
+console.log("OK: 240件、ID、欠番、画像、読み、タグ、検索正規化、並び順、PWA構成を検証しました。");

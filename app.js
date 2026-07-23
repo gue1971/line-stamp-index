@@ -61,8 +61,7 @@ function showDetail(id) {
   const related = relatedFor(sticker);
   $("#detail-content").innerHTML = `<article class="detail">
     <div class="detail-top"><div class="image-stage detail-image"><img src="${sticker.image}" alt="${sticker.text}" width="370" height="320"></div>
-      <div>${setMarker(sticker,"detail-marker")}<h2 id="detail-title">${sticker.text}</h2>
-      <p class="detail-meta">読み：${sticker.reading}</p><div class="detail-tags">${sticker.tags.map(t=>`<span class="tag">${t}</span>`).join("")}</div></div></div>
+      <div class="detail-info">${setMarker(sticker,"detail-marker")}<h2 id="detail-title" class="sr-only">${sticker.text}</h2><p class="detail-meta">読み：${sticker.reading}</p></div></div>
     <div class="position-map" aria-label="${sticker.set}-${sticker.position}のセット内配置">${Array.from({length:40},(_,i)=>`<span class="${i+1===sticker.position?"active":""}">${i+1}</span>`).join("")}</div>
     <h3 class="related-title">関連スタンプ</h3><div class="related-grid">${related.map(r=>`<button class="related-card" type="button" data-related="${r.id}" aria-label="${r.text}、${r.set}-${r.position}の詳細"><img class="related-image" src="${r.image}" alt="" loading="lazy">${setMarker(r,"related-marker")}</button>`).join("")}</div>
   </article>`;
@@ -83,3 +82,4 @@ async function init() {
   } catch (error) { $("#result-summary").textContent="データを読み込めませんでした。ローカルサーバーから開いてください。"; console.error(error); }
 }
 document.addEventListener("DOMContentLoaded",init);
+if ("serviceWorker" in navigator) window.addEventListener("load",()=>navigator.serviceWorker.register("./sw.js").catch(error=>console.error("Service Worker registration failed",error)));

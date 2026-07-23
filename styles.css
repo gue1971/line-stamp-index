@@ -33,22 +33,19 @@ button { color:inherit; }
 .empty { padding:70px 20px; text-align:center; color:var(--muted); }
 .empty div { font-size:2.5rem; }
 .empty p { color:var(--ink); font-weight:800; }
-dialog { width:min(780px,calc(100% - 24px)); max-height:calc(100dvh - 24px); padding:0; border:0; border-radius:24px; background:var(--paper); box-shadow:0 24px 80px rgba(35,25,18,.30); overflow:auto; }
+dialog { width:min(720px,calc(100% - 16px)); max-height:calc(100dvh - 12px); padding:0; border:0; border-radius:22px; background:var(--paper); box-shadow:0 24px 80px rgba(35,25,18,.30); overflow:auto; }
 dialog::backdrop { background:rgba(42,34,29,.52); backdrop-filter:blur(4px); }
 .dialog-close { position:sticky; float:right; top:12px; z-index:2; width:42px; height:42px; margin:12px 12px 0 0; border:0; border-radius:50%; background:rgba(255,255,255,.9); box-shadow:0 2px 12px rgba(0,0,0,.12); font-size:1.6rem; cursor:pointer; }
-.detail { padding:28px; }
-.detail-top { display:grid; grid-template-columns:minmax(200px,310px) 1fr; gap:28px; align-items:center; }
-.detail-image { border-radius:20px; }
+.detail { padding:18px; }
+.detail-top { display:grid; grid-template-columns:160px 1fr; gap:16px; align-items:center; padding-right:44px; }
+.detail-image { width:160px; border-radius:16px; }
 .detail-marker { margin:0 0 8px; }
 .detail-marker .set-tab { width:50px; height:39px; }
-.detail h2 { margin:8px 0 10px; font-size:clamp(1.6rem,4vw,2.3rem); }
-.detail-meta { margin:0; color:var(--muted); line-height:1.8; }
-.detail-tags { display:flex; flex-wrap:wrap; gap:6px; margin-top:12px; }
-.tag { padding:5px 9px; border-radius:999px; background:#f5e8da; color:#7c4b3b; font-size:.78rem; font-weight:700; }
-.position-map { display:grid; grid-template-columns:repeat(8,1fr); gap:5px; margin-top:24px; padding:12px; border:1px solid var(--line); border-radius:15px; background:#fff; }
-.position-map span { display:grid; place-items:center; min-height:34px; border-radius:8px; background:#f3eee6; color:#8b8279; font-size:.78rem; }
+.detail-meta { margin:0; color:var(--muted); font-weight:700; }
+.position-map { display:grid; grid-template-columns:repeat(8,1fr); gap:4px; margin-top:14px; padding:8px; border:1px solid var(--line); border-radius:13px; background:#fff; }
+.position-map span { display:grid; place-items:center; min-height:28px; border-radius:7px; background:#f3eee6; color:#8b8279; font-size:.73rem; }
 .position-map .active { color:#fff; background:var(--accent); box-shadow:0 0 0 3px rgba(242,111,82,.18); font-weight:900; }
-.related-title { margin:25px 0 12px; }
+.related-title { margin:14px 0 8px; font-size:1rem; }
 .related-grid { display:grid; grid-template-columns:repeat(6,1fr); gap:8px; }
 .related-card { min-width:0; border:1px solid var(--line); border-radius:12px; padding:6px; background:#fff; cursor:pointer; }
 .related-card > .related-image { display:block; width:100%; aspect-ratio:370/320; object-fit:contain; background:#fff9ef; border-radius:8px; }
@@ -72,11 +69,22 @@ dialog::backdrop { background:rgba(42,34,29,.52); backdrop-filter:blur(4px); }
   .card-marker{gap:5px;margin-top:5px}
   .card-marker .set-tab{width:30px;height:24px}
   .card-marker .set-label{min-width:0;padding:2px 5px;font-size:.68rem}
-  .detail{padding:20px 14px 24px}
-  .detail-top{grid-template-columns:1fr}
-  .detail-image{max-width:310px;margin:auto}
-  .position-map{grid-template-columns:repeat(5,1fr);gap:4px;padding:8px}
-  .position-map span{min-height:30px;font-size:.72rem}
+  dialog{border-radius:18px}
+  .dialog-close{top:7px;width:36px;height:36px;margin:7px 7px 0 0;font-size:1.35rem}
+  .detail{padding:12px}
+  .detail-top{grid-template-columns:112px 1fr;gap:11px;padding-right:34px}
+  .detail-image{width:112px;margin:0;border-radius:12px}
+  .detail-marker{margin-bottom:7px}
+  .detail-marker .set-tab{width:42px;height:33px}
+  .detail-meta{font-size:.86rem}
+  .position-map{grid-template-columns:repeat(5,1fr);gap:3px;margin-top:10px;padding:6px}
+  .position-map span{min-height:24px;font-size:.68rem}
+  .related-title{margin:10px 0 6px}
+  .related-grid{gap:5px}
+  .related-card{padding:4px}
+  .related-marker{margin-top:3px}
+  .related-marker .set-tab{width:24px;height:19px}
+  .related-marker .set-label{font-size:.62rem}
 }
 @media (max-width:380px){ .sticker-grid{grid-template-columns:repeat(2,minmax(0,1fr))} }
 @media (prefers-reduced-motion:reduce){ html{scroll-behavior:auto}.sticker-card{transition:none} }
